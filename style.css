@@ -57,3 +57,12 @@
     border-bottom-left-radius: 10px;
     padding: 5px 10px 10px 10px;
 }
+#example-8 {
+    color: gold;
+    background-color: brown;
+    border-bottom-left-radius: 50px;
+    width: 200px;
+    padding: 50px 50px 50px 50px;
+    border-radius: 100%;
+    margin: 10px 10px;
+}
