@@ -13,3 +13,12 @@
     padding: 10px 10px 20px 20px;
     margin: 20px 20px 20px 20px;
 }
+#example-3 {
+    color: tomato;
+    background-color: black;
+    border-color: white;
+    border:  5px dashed white;
+    width: 200px;
+    padding: 10px 10px 10px 10px;
+    margin: 20px 20px;
+}
