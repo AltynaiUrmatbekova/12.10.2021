@@ -5,3 +5,11 @@
     border: 2px solid red;
     margin: 20px 20px 10px 10px;
 }
+#example-2 {
+    color: wheat;
+    background-color: red;
+    border-radius: 50px;
+    width: 500px;
+    padding: 10px 10px 20px 20px;
+    margin: 20px 20px 20px 20px;
+}
